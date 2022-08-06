@@ -1,6 +1,4 @@
-# Lucky Four
-## Problem Code:
-### LUCKYFR
+
 /* package codechef; // don't place package name! */
 
 import java.util.*;
